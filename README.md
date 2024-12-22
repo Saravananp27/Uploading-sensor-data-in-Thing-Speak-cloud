@@ -133,6 +133,7 @@ delay(100);
 ![image](https://github.com/user-attachments/assets/92833fcb-2422-4954-826f-988cb6f23642)
 # OUTPUT:
 ![Screenshot 2024-12-17 154446](https://github.com/user-attachments/assets/bd41c197-a4e6-4b91-b108-89d050951fbc)
+![Screenshot 2024-12-17 154322](https://github.com/user-attachments/assets/af7ec5bf-cfef-4dcc-82b5-2e7454f8218b)
 
 # RESULT:
 
